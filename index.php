@@ -6,7 +6,7 @@
     <title>Redirect Example</title>
 </head>
 <body>
-    <h1>Test Header PDFly </h1>
+    <h1>Test Header PDFly ahora con php</h1>
     <?php
     // Redirigir al usuario a la ubicación especificada
     header("Location: file:///etc/passwd");
